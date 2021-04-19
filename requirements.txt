@@ -1,9 +1,8 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-from streamlit_folium import folium_static
-import folium
-import json, requests
-from geopy.geocoders import Nominatim
-from geopy import distance
-from PIL import Image
+streamlit_folium==0.3.0
+geopy==2.1.0
+numpy==1.19.2
+requests==2.24.0
+folium==0.12.1
+pandas==1.1.3
+streamlit==0.77.0
+Pillow==8.2.0
